@@ -15,6 +15,6 @@ steps:
   displayName: Install dependencies
 
 - script: |
-    echo "Running basic check"
+    echo "Checking Node version"
     node -v
-  displayName: Verify Node version
+  displayName: Node version check
