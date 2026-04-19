@@ -45,7 +45,7 @@ const server = http.createServer((req, res) => {
         <div class="card">
           <h1>DevOps Internship Project</h1>
 
-          <p><b>Status:</b> Deployment Successful</p>
+          <p><b>Status:</b> Production Ready </p>
           <p><b>Environment:</b> Azure Virtual Machine</p>
 
           <hr>
